@@ -9,8 +9,8 @@ Olá, sou Renato Alves, estudante do curso superior de Análise e Desenvolviment
 
 <div style="display: inline_block">
 <img align= "center" alt="GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align= "center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align= "center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+<img align= "center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 </div>
 
 ### Front - End
@@ -33,4 +33,4 @@ Olá, sou Renato Alves, estudante do curso superior de Análise e Desenvolviment
 <hr>
 <br>
 
-![devRenatoAlves GitHub stats](https://github-readme-stats.vercel.app/api?username=devRenatoAlves&show_icons=true&theme=radical)
+![Snake animation](https://github.com/devRenatoAlves)
