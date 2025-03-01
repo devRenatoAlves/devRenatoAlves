@@ -2,7 +2,28 @@
 
 # Olá! Eu sou o Renato Alves 👋
 
-Olá, sou Renato Alves, estudante do curso superior de Análise e Desenvolvimento de Sistemas.
+Olá! Sou desenvolvedor back-end, apaixonado em aprender e inovações tecnologias, estudo na faculdade, mas também estudo de forma independente em plataformas
+como Udemy, Youtube e afins. Estudo com foco no desenvolvimento web back-end, utilizando tecnologias como JavaScript, Node.js, SQL, Express.js entre outras.
+
+O que eu ofereço:
+
+⏳ 5 anos de experiência: Já trabalhei em diversas empresas com diferentes tipos de nichos, lideranças, e equipes.
+
+🚀 Capacidade : Sou um profissional constante, responsável e com vontade aprender e crescer na equipe e empresa que integro.
+
+🛠️ Boas Práticas de Desenvolvimento: Prezo pelo código limpo, metodologias ágeis, utilizando práticas como POO e SOLID todos os dias.
+
+Objetivos de carreira:
+
+💎 Aprimorar meus conhecimentos: Colocar em prática oque estudei em projetos reais.
+
+🌱 Integrar em uma equipe inovadora: Quero me integrar em uma equipe que ama tecnologia assim como eu, com vontade de inovar e crescer no mercado.
+
+Impacto Profissional:
+
+👥 Experiência em empresas de todos os tamanhos: Fui responsável por fazer a gestão de diversas áreas de empresas multinacionais, fazendo parte do time gerencial e também fazendo a diferença de forma direta nos resultados dos meus superiores.
+
+🤝 Conexões para o Futuro: Estou sempre em busca de colaborar com equipes que valorizam inovação e progresso.
 
 ## Tecnologias
 
